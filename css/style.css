@@ -687,6 +687,22 @@ section.pricing {
     font-size: 14px;
 }
 
+.news-date {
+  font-size: .8rem;
+  color: #152b56;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.news-list-item .img-cont {
+  height: 100%;
+}
+
+.news-list-item .img-cont img{
+  object-fit: cover;
+  height: 100%;
+}
+
 @media (min-width: 992px) {
   .pricing .card:hover {
     margin-top: -.25rem;
