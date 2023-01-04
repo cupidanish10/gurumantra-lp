@@ -703,6 +703,25 @@ section.pricing {
   height: 100%;
 }
 
+.dropdown-toggle::after {
+  display: inline-block;
+  width: 1rem;
+  height: 0.8rem;
+  background-image: url(../img/chevron.svg);
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: 1rem 1rem;
+  margin-left: auto;
+  padding-left: 1.25rem;
+  content: "";
+}
+
+.nav-link.dropdown-toggle {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
 @media (min-width: 992px) {
   .pricing .card:hover {
     margin-top: -.25rem;
