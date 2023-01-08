@@ -8,7 +8,7 @@
   --brand-primary-font: "Inter", sans-serif !important;
   --brand-secondary-font: "Nunito", sans-serif !important;
 
-  --brand-heading-lg: 64px; /* h1*/
+  --brand-heading-lg: 56px; /* h1*/
   --brand-heading-md: 32px; /* h2 */
   --brand-heading-sm: 24px; /* h3 */
   --brand-heading-xs: 20px; /* h4 */
@@ -725,6 +725,57 @@ section.pricing {
 
 .main-navbar .nav-link {
   color:#000;
+}
+
+.section-home-hero {
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: #aee0b952;
+}
+
+.hero-bg {
+  width: 100%;
+  height: 100%;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  /* background-image: linear-gradient(90deg,#d8eefe 33%,rgba(216,238,254,0) 52%); */
+}
+
+.product-list-card .img-cont {
+  height: 120px;
+  line-height: 120px;
+}
+
+.product-list-card p {
+  font-size: 18px;
+  color: #212529;
+  font-weight: 500;
+}
+.section-home-hero {
+  position: relative;
+}
+.section-home-hero svg path {
+  fill: rgb(248, 249, 252)
+}
+.section-home-hero svg {
+  position: absolute;
+    right: 0px;
+    z-index: 0;
+    width: 150vw;
+    height: auto;
+    top: 0;
+    bottom: auto;
+    transform: rotateZ(-0deg);
+}
+
+.our-products h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.our-products p {
+  margin: 24px 0;
+  
 }
 
 @media (min-width: 992px) {

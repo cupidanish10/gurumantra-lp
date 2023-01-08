@@ -63,7 +63,7 @@
                   <p> Are you tired of relying on outdated or confusing tools to track and analyze your stock portfolio? Say goodbye to frustration and hello to success with Gurumantra – our flagship product that offers powerful data analytics and visualization tools to help you make informed investment decisions. Our powerful data analytics and visualization tools make it easy to track and analyze your portfolio, while alerts for significant stock performance changes help you stay ahead of the game. </p>
 
                   <div class="mt-4">
-                    <a href="" class="btn btn-success btn-lg"> Get Started </a>
+                    <a href="" class="btn btn-brand btn-brand-primary"> Get Started </a>
 
                   </div>
 
@@ -128,7 +128,7 @@
                   <p> Are you tired of feeling uncertain about which broker is the best fit for your investment needs? Look no further than Broker Chirfaad – our platform that makes it easy to compare and analyze the holdings of different brokers. Experience the power of comprehensive analysis with a user-friendly interface while our educational resources help you stay informed about the latest trends and developments in the world of investing.</p>
 
                   <div class="mt-4">
-                    <a href="" class="btn btn-success btn-lg"> Join Now </a>
+                    <a href="" class="btn btn-brand btn-brand-primary"> Join Now </a>
 
                   </div>
 
@@ -161,7 +161,7 @@
                   <p> Our user-friendly platform and expert guidance make it easy to track your spending, plan for the future, and make informed investment decisions. With Vriddhi, you'll have access to budgeting tools, investment tracking, smart stock recommendations, and personalized financial planning recommendations to help you achieve your financial goals. Plus, our goal planning feature helps you stay on track and stay motivated as you work towards your financial goals.</p>
 
                   <div class="mt-4">
-                    <a href="" class="btn btn-success btn-lg"> Suscribe Now </a>
+                    <a href="" class="btn btn-brand btn-brand-primary"> Suscribe Now </a>
 
                   </div>
 
@@ -211,7 +211,7 @@
             <h5 class="card-title text-muted text-uppercase text-center">Free</h5>
             <h6 class="card-price text-center">$0<span class="period">/month</span></h6>
             <div class="d-grid">
-              <a href="./login.php" class="btn btn-success text-uppercase">Get Free Plan</a>
+              <a href="./login.php" class="btn btn-brand-primary text-uppercase">Get Free Plan</a>
             </div>
             <hr>
             <!-- list -->
@@ -303,7 +303,7 @@
             <h5 class="card-title text-muted text-uppercase text-center">Basic Plan </h5>
             <h6 class="card-price text-center">NRS.199<span class="period">/month</span></h6>
             <div class="d-grid">
-              <a href="./login.php" class="btn btn-success text-uppercase">Get Basic Plan</a>
+              <a href="./login.php" class="btn btn-brand-primary text-uppercase">Get Basic Plan</a>
             </div>
             <hr>
             <!-- list -->
@@ -434,7 +434,7 @@
             <h5 class="card-title text-muted text-uppercase text-center">Elite Plan </h5>
             <h6 class="card-price text-center">NRS.299<span class="period">/month</span></h6>
             <div class="d-grid">
-              <a href="./login.php" class="btn btn-success text-uppercase">Get Elite Plan</a>
+              <a href="./login.php" class="btn btn-brand-primary text-uppercase">Get Elite Plan</a>
             </div>
             <hr>
             <!-- list -->
@@ -614,7 +614,7 @@
             <h5 class="card-title text-muted text-uppercase text-center">Elite + Plan </h5>
             <h6 class="card-price text-center">NRS.499<span class="period">/month</span></h6>
             <div class="d-grid">
-              <a href="./login.php" class="btn btn-success text-uppercase">Get Elite + Plan</a>
+              <a href="./login.php" class="btn btn-brand-primary text-uppercase">Get Elite + Plan</a>
             </div>
             <hr>
             <!-- list -->
@@ -793,6 +793,68 @@
       </div>
       
     </div>
+  </div>
+</section>
+
+
+
+<section class="main-sm section-home-hero">
+<svg class="Wave__WaveSVG-sc-ux3qx3-0 eMaHHi Wave" width="1600" height="100" viewBox="0 0 1600 100" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0)"><path d="M1198 43.1753C1403.45 43.1753 1600 73.398 1600 73.398V0H0.00012207V50.3484C0.00012207 50.3484 225.015 100 477.6 100C756.866 100 883.158 43.1753 1198 43.1753Z" fill="#FFFFFF"></path></g><defs><clipPath id="clip0"><path d="M0 0H1600V100H0V0Z" fill="white"></path></clipPath></defs></svg>
+  <div class="hero-bg w-background-video">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-5">
+              <div class="our-products">
+                <h2> One Subscription, Three Products </h2>
+      
+                <p>Unlock the full potential of your investments, make informed decisions and take control of your personal finances with Ideapreneur Nepal's Powerful and user friendly tools.</p>
+      
+                <a href="" class="btn btn-brand btn-brand-primary"> Get Started </a>
+              </div>
+      
+          </div>
+
+          <div class="col-md-6 offset-md-1">
+              <div class="row mt-5">
+                <div class="col-md-6">
+                  <div class="card box-shadow border-0 p-3 product-list-card mb-3">
+                      <div class="img-cont">
+                        <img src="./img/gurumantra.svg" class="img-fluid" alt="">
+
+                      </div>
+                      <p> User friendly data analytics interface with integrated notification system </p>
+                  </div>
+                  <div class="card box-shadow border-0 p-3 product-list-card">
+                    <div class="img-cont">
+                      <img src="./img/chirfar_logo.png" class="img-fluid" alt="">
+
+                    </div>
+                    
+                      <p> Comprehensive broker analysis in terms of services they offer and side by side comparison.</p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="card box-shadow border-0 p-3 product-list-card mb-3 mt-5">
+                    <div class="img-cont">
+                      <img src="./img/vriddhi.svg" class="img-fluid" alt="">
+
+                    </div>
+                      <p> A masterfully crafted DIY financial planning platform to aid you to enhance your net worth. </p>
+                  </div>
+                  <div class="card box-shadow border-0 p-3 product-list-card">
+                    <div class="img-cont">
+                      <img src="./img/gurumantra.svg" class="img-fluid" alt="">
+
+                    </div>
+                      <p> Handpicked structured course catering everyone who has zero knowledge of the stock market. </p>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+    
+      </div>
+
   </div>
 </section>
 

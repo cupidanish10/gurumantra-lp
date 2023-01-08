@@ -132,7 +132,80 @@
                                 <div class="mega-content">
                                     <div class="container">
                                         <div class="row">
-                                           
+                                            <div class="col-12 col-sm-6 col-md-12 menu-col-right px-4">
+                                                <h6 class="text-brand"> Our Products</h6>
+                                                <div class="row">
+                                                    <div class="col-6 col-sm-3 col-md-3">
+                                                        <div class="card box-shadow border-0 p-3 news-card">
+                                                            <div class="img-cont">
+                                                                <img src="./img/gurumantra.svg" class="img-fluid" alt="">
+
+                                                            </div>
+
+                                                            <div class="news-body">
+
+                                                                <p>
+                                                                    User friendly data analytics interface with integrated notification system
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-6 col-sm-3 col-md-3">
+                                                        <div class="card box-shadow border-0 p-3 news-card">
+                                                            <div class="img-cont">
+                                                            <img src="./img/chirfar_logo.png" class="img-fluid" alt="">
+
+                                                            </div>
+
+                                                            <div class="news-body">
+
+                                                                <p>
+                                                                    User friendly data analytics interface with integrated notification system
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-6 col-sm-3 col-md-3">
+                                                        <div class="card box-shadow border-0 p-3 news-card">
+                                                            <div class="img-cont">
+                                                            <img src="./img/vriddhi.svg" class="img-fluid" alt="">
+
+                                                            </div>
+
+                                                            <div class="news-body">
+
+                                                                <p>
+                                                                    User friendly data analytics interface with integrated notification system
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-6 col-sm-3 col-md-3">
+                                                        <div class="card box-shadow border-0 p-3 news-card">
+                                                            <div class="img-cont">
+                                                            <img src="./img/gurumantra.svg" class="img-fluid" alt="">
+
+                                                            </div>
+
+                                                            <div class="news-body">
+
+                                                                <p>
+                                                                    User friendly data analytics interface with integrated notification system
+                                                                </p>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+
+
+                                                </div>
+                                            </div>
 
 
 
@@ -183,7 +256,7 @@
                                                                     <a href="">
                                                                         How To Invest Online? Is It Safe To…
                                                                     </a>
-                                                                    
+
                                                                 </h3>
                                                                 <span class="news-date">August 17, 2021</span>
 
@@ -206,7 +279,7 @@
                                                                     <a href="">
                                                                         How To Invest Online? Is It Safe To…
                                                                     </a>
-                                                                    
+
                                                                 </h3>
                                                                 <span class="news-date">August 17, 2021</span>
 
@@ -228,9 +301,9 @@
                                                                 <h3>
                                                                     <a href="">
                                                                         Debt Mutual Funds vs. Bonds </a>
-                                                                        
-                                                                    </h3>
-                                                                    <span class="news-date">August 17, 2021</span>
+
+                                                                </h3>
+                                                                <span class="news-date">August 17, 2021</span>
 
                                                                 <p>
                                                                     Investing in debt instruments is always a safer and smarter option!
@@ -247,15 +320,15 @@
                                                             <div class="news-header">
                                                                 <img src="./img/blog3.jpeg" class="img-fluid" alt="">
                                                             </div>
-                                                            
+
 
                                                             <div class="news-body">
                                                                 <h3>
                                                                     <a href="">
                                                                         Investment Strategies in the Bond Market </a>
-                                                                        
-                                                                    </h3>
-                                                                    <span class="news-date">August 17, 2021</span>
+
+                                                                </h3>
+                                                                <span class="news-date">August 17, 2021</span>
 
                                                                 <p>
                                                                     Corporate FDs provide investors with stable, predictable returns in these times of high market volatility and uncertain returns, helping them in securing their financial future. Investors have an option between a pay-out option that provides a steady income and a cumulative option that builds money.
@@ -285,9 +358,6 @@
                                 <div class="mega-content">
                                     <div class="container">
                                         <div class="row">
-                                           
-
-
 
 
                                         </div>
@@ -301,7 +371,7 @@
                                 <div class="mega-content">
                                     <div class="container">
                                         <div class="row">
-                                           
+
 
 
 
