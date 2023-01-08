@@ -400,6 +400,7 @@ section.footer {
   background: #fff;
   padding: 10px;
   border-radius: 30px;
+  box-shadow: 0 10px 25px rgb(10 10 51 / 10%);
   z-index: 100;
 }
 
@@ -720,6 +721,10 @@ section.pricing {
   position: relative;
   display: flex;
   align-items: center;
+}
+
+.main-navbar .nav-link {
+  color:#000;
 }
 
 @media (min-width: 992px) {
