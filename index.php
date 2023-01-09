@@ -57,7 +57,7 @@
 
           <div class="card-body">
             <div class="row mt-5">
-              <div class="col-md-6">
+              <div class="col-md-6 order-2">
                 <div class="left-content-block pe-5">
                   <h2 class="mb-4">Revolutionize your investment strategy</h2>
                   <p> Are you tired of relying on outdated or confusing tools to track and analyze your stock portfolio? Say goodbye to frustration and hello to success with Gurumantra – our flagship product that offers powerful data analytics and visualization tools to help you make informed investment decisions. Our powerful data analytics and visualization tools make it easy to track and analyze your portfolio, while alerts for significant stock performance changes help you stay ahead of the game. </p>
@@ -70,7 +70,7 @@
                 </div>
               </div>
 
-              <div class="col-md-6">
+              <div class="col-md-6 order-md-2">
                 <div class="product-slider-js">
                   <div class="">
                     <img src="img/Property1.svg" class="img-fluid" alt="">
@@ -155,7 +155,7 @@
 
           <div class="card-body">
             <div class="row mt-5">
-              <div class="col-md-6">
+              <div class="col-md-6 order-2">
                 <div class="left-content-block pe-5">
                   <h2 class="mb-4">The ultimate tool for financial planning and budgeting.</h2>
                   <p> Our user-friendly platform and expert guidance make it easy to track your spending, plan for the future, and make informed investment decisions. With Vriddhi, you'll have access to budgeting tools, investment tracking, smart stock recommendations, and personalized financial planning recommendations to help you achieve your financial goals. Plus, our goal planning feature helps you stay on track and stay motivated as you work towards your financial goals.</p>
@@ -168,7 +168,7 @@
                 </div>
               </div>
 
-              <div class="col-md-6">
+              <div class="col-md-6 order-md-2">
                 <div class="product-slider-js">
                   <div class="">
                     <img src="img/Property1.svg" class="img-fluid" alt="">
@@ -818,6 +818,7 @@
               <div class="row mt-5">
                 <div class="col-md-6">
                   <div class="card box-shadow border-0 p-3 product-list-card mb-3">
+
                       <div class="img-cont">
                         <img src="./img/gurumantra.svg" class="img-fluid" alt="">
 

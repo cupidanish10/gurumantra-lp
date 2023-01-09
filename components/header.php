@@ -135,13 +135,13 @@
                                             <div class="col-12 col-sm-6 col-md-12 menu-col-right px-4">
                                                 <h6 class="text-brand"> Our Products</h6>
                                                 <div class="row">
-                                                    <div class="col-6 col-sm-3 col-md-3">
-                                                        <div class="card box-shadow border-0 p-3 news-card">
+                                                    <div class="col-12 col-sm-3 col-md-3">
+                                                        <div class="card box-shadow border-0 p-3 nav-card">
                                                             <div class="img-cont">
                                                                 <img src="./img/gurumantra.svg" class="img-fluid" alt="">
 
                                                             </div>
-
+                                                            <a href="" class="divLink"> news</a>
                                                             <div class="news-body">
 
                                                                 <p>
@@ -152,51 +152,51 @@
 
                                                     </div>
 
-                                                    <div class="col-6 col-sm-3 col-md-3">
-                                                        <div class="card box-shadow border-0 p-3 news-card">
+                                                    <div class="col-12 col-sm-3 col-md-3">
+                                                        <div class="card box-shadow border-0 p-3 nav-card">
                                                             <div class="img-cont">
                                                             <img src="./img/chirfar_logo.png" class="img-fluid" alt="">
 
                                                             </div>
-
+                                                            <a href="" class="divLink"> news</a>
                                                             <div class="news-body">
 
                                                                 <p>
-                                                                    User friendly data analytics interface with integrated notification system
+                                                                Comprehensive broker analysis in terms of services they offer and side by side comparison.
                                                                 </p>
                                                             </div>
                                                         </div>
 
                                                     </div>
 
-                                                    <div class="col-6 col-sm-3 col-md-3">
-                                                        <div class="card box-shadow border-0 p-3 news-card">
+                                                    <div class="col-12 col-sm-3 col-md-3">
+                                                        <div class="card box-shadow border-0 p-3 nav-card">
                                                             <div class="img-cont">
                                                             <img src="./img/vriddhi.svg" class="img-fluid" alt="">
 
                                                             </div>
-
+                                                            <a href="" class="divLink"> news</a>
                                                             <div class="news-body">
 
                                                                 <p>
-                                                                    User friendly data analytics interface with integrated notification system
+                                                                A masterfully crafted DIY financial planning platform to aid you to enhance your net worth.
                                                                 </p>
                                                             </div>
                                                         </div>
 
                                                     </div>
 
-                                                    <div class="col-6 col-sm-3 col-md-3">
-                                                        <div class="card box-shadow border-0 p-3 news-card">
+                                                    <div class="col-12 col-sm-3 col-md-3">
+                                                        <div class="card box-shadow border-0 p-3 nav-card">
                                                             <div class="img-cont">
                                                             <img src="./img/gurumantra.svg" class="img-fluid" alt="">
 
                                                             </div>
-
+                                                            <a href="" class="divLink"> news</a>
                                                             <div class="news-body">
 
                                                                 <p>
-                                                                    User friendly data analytics interface with integrated notification system
+                                                                Handpicked structured course catering everyone who has zero knowledge of the stock market.
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -215,6 +215,7 @@
                                 </div>
                             </div>
                         </li>
+
                         <li class="nav-item dropdown dropdown-mega position-static">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside">Newsletter</a>
                             <div class="dropdown-menu brand-menu-shadow">
@@ -244,7 +245,7 @@
                                             <div class="col-12 col-sm-6 col-md-10 menu-col-right px-4">
                                                 <h6 class="text-brand"> Weekly Highlights</h6>
                                                 <div class="row">
-                                                    <div class="col-6 col-sm-3 col-md-3">
+                                                    <div class="col-12 col-sm-3 col-md-3">
 
                                                         <div class="news-card">
                                                             <div class="news-header">
@@ -267,7 +268,7 @@
                                                         </div>
 
                                                     </div>
-                                                    <div class="col-6 col-sm-3 col-md-3">
+                                                    <div class="col-12 col-sm-3 col-md-3">
 
                                                         <div class="news-card">
                                                             <div class="news-header">
@@ -290,7 +291,7 @@
                                                         </div>
 
                                                     </div>
-                                                    <div class="col-6 col-sm-3 col-md-3">
+                                                    <div class="col-12 col-sm-3 col-md-3">
 
                                                         <div class="news-card">
                                                             <div class="news-header">
@@ -314,7 +315,7 @@
                                                         </div>
 
                                                     </div>
-                                                    <div class="col-6 col-sm-3 col-md-3">
+                                                    <div class="col-12 col-sm-3 col-md-3">
 
                                                         <div class="news-card">
                                                             <div class="news-header">

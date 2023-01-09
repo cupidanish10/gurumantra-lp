@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <!-- left -->
-                <div class="col-12 col-lg-5 offset-lg-1 d-md-flex align-items-center justify-content-center vh-lg-100">
+                <div class="col-12 col-lg-5 offset-lg-1 d-md-flex align-items-center justify-content-center vh-lg-100 d-none d-lg-block d-xl-none">
                     <div class="p-3 p-lg-5">
                         <!-- Title -->
                         <div class="text-center">
