@@ -20,10 +20,11 @@
       </div>
 
       <div class="col-md-6  second-col order-1">
-        <h1 class="mb-3 mt-5 hero-title" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">Your Gateway to Financial Independence</h1>
-        <h3 class="" data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000"> Everything you need to know about broker.</h3>
+        <h1 class="mb-3 mt-5 hero-title" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000"> <span class="c-green">Idea</span>preneure Nepal, with your complete <span class="c-green">financial guide </span> </h1>
+       
+        <h3 class="" data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000"> - Tulkey Dai </h3>
         <p data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">
-          Unlock the full potential of your investments, make informed decisions and take control of your personal finances with Ideapreneur Nepal's Powerful and user friendly tools.
+          Ideapreneurnepal provides you with powerful and user-friendly tools to unlock the full potential of your investments, make informed decisions and take control of your personal finances.
         </p>
 
         <a href="" data-aos-delay="600" class="btn btn-brand btn-brand-primary" data-aos="fade-up" data-aos-duration="1000"> Suscribe Now </a>

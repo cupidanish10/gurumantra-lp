@@ -143,7 +143,7 @@
                                                             </div>
                                                             <a href="" class="divLink"> news</a>
                                                             <div class="news-body">
-
+                                                                <h3> Gurumantra</h3>
                                                                 <p>
                                                                     User friendly data analytics interface with integrated notification system
                                                                 </p>
@@ -160,7 +160,7 @@
                                                             </div>
                                                             <a href="" class="divLink"> news</a>
                                                             <div class="news-body">
-
+                                                                <h3> Broker Chirfaad</h3>
                                                                 <p>
                                                                 Comprehensive broker analysis in terms of services they offer and side by side comparison.
                                                                 </p>
@@ -177,7 +177,7 @@
                                                             </div>
                                                             <a href="" class="divLink"> news</a>
                                                             <div class="news-body">
-
+                                                                <h3> Vriddhi</h3>
                                                                 <p>
                                                                 A masterfully crafted DIY financial planning platform to aid you to enhance your net worth.
                                                                 </p>
@@ -194,7 +194,7 @@
                                                             </div>
                                                             <a href="" class="divLink"> news</a>
                                                             <div class="news-body">
-
+                                                                <h3> Ideapreneur Courses</h3>
                                                                 <p>
                                                                 Handpicked structured course catering everyone who has zero knowledge of the stock market.
                                                                 </p>

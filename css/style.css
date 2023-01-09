@@ -724,6 +724,15 @@ section.pricing {
 
 .main-navbar .nav-link {
   color:#000;
+  transition: .3s all;
+}
+
+.nav-card , .nav-card h3{
+  transition: .3s all;
+}
+
+.main-navbar .nav-link:hover , .nav-card:hover h3 {
+  color: var(--brand-green);
 }
 
 .section-home-hero {
@@ -784,7 +793,9 @@ section.pricing {
 
 .nav-card {
   margin-bottom: 16px;
+  transition: .3s all;
 }
+
 
 @media (min-width: 992px) {
   .pricing .card:hover {
