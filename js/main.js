@@ -2,6 +2,17 @@
 
 
 $(document).ready(function () {
+  $(window).scroll(function() {
+    var nav = $('#main-navbar');
+    var top = 100;
+    if ($(window).scrollTop() >= top) {
+
+        nav.addClass('bg-white');
+
+    } else {
+        nav.removeClass('bg-white');
+    }
+});
 
   AOS.init();
 

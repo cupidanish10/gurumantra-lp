@@ -247,7 +247,21 @@ a {
 }
 
 .main-navbar {
-  box-shadow: 0 2px 6px 0 rgb(0 0 0 / 7%);
+  /* box-shadow: 0 2px 6px 0 rgb(0 0 0 / 7%); */
+  position: fixed;
+    width: 100%;
+    height: 100px;
+    z-index: 110;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: transparent;
+}
+
+.wrapper-page {
+  background-color: #dfdacd;
+  background-color: #fff;
+  padding-top: 100px;
 }
 
 .hero-section {
@@ -723,6 +737,8 @@ section.pricing {
 }
 
 .main-navbar .nav-link {
+  font-weight: 500;
+  font-size: 1.1rem;
   color:#000;
   transition: .3s all;
 }
@@ -796,6 +812,92 @@ section.pricing {
   transition: .3s all;
 }
 
+.hero-section h1 {
+  font-weight: 800;
+}
+
+h1 + p {
+  color: #16002c;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: 800;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.left-content-block h3 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.block-content p {
+  color: #58514f;
+  line-height: 24px;
+}
+
+.card-header h2 {
+  font-weight: 800;
+}
+
+.block-left .block-content {
+  background: #efeef2;
+    border-radius: 30px;
+}
+
+.download-banner-card.product-card, .download-banner-card.product-card .card-body {
+  padding-bottom: 0!important;
+}
+
+.chip-card {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 24rem;
+  padding: 1rem;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 15px;
+  background-color: #fff;
+  cursor: pointer;
+
+  color: #16002c;
+    background-color: #efeef2;
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+}
+
+.chip-number {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 4rem;
+  height: 4rem;
+  margin-right: 1.5rem;
+  padding: 1rem;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  border-radius: 10px;
+  background-color: #fcf8f3;
+  color: var(--brand-green);
+  font-size: 1.2rem;
+  font-weight: 500;
+}
 
 @media (min-width: 992px) {
   .pricing .card:hover {
@@ -806,6 +908,10 @@ section.pricing {
 
   .pricing .card:hover .btn {
     opacity: 1;
+  }
+
+  .main-navbar .navbar-nav .nav-link {
+    margin-left: 40px;
   }
 
   .main-navbar .dropdown-mega.dropdown:hover>.dropdown-menu {
